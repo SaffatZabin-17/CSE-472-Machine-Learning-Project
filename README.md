@@ -1,1 +1,1 @@
-# CSE-472-Machine-Learning-Sessional-
+# CSE-472-Machine-Learning-Project-
